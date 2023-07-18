@@ -1,0 +1,8 @@
+email: moshe.even@transmitsecurity.com
+cluster: workshop
+namespaces:
+- dev
+- stage
+- prod
+repos:
+- demo-app-deploy
